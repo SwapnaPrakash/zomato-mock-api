@@ -1,0 +1,66 @@
+{
+  "collections": [
+    {
+      "collection": {
+        "collection_id": 1,
+        "res_count": 24,
+        "image_url": "https://b.zmtcdn.com/data/collections/a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4.jpg",
+        "url": "https://www.zomato.com/bengaluru/top-restaurants",
+        "title": "Trending This Week",
+        "description": "Most ordered restaurants in Bengaluru",
+        "share_url": "https://www.zomato.com/bengaluru/trending",
+        "discount": "Up to 60% OFF"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 2,
+        "res_count": 18,
+        "image_url": "https://b.zmtcdn.com/data/collections/b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5.jpg",
+        "url": "https://www.zomato.com/bengaluru/new-restaurants",
+        "title": "Newly Opened",
+        "description": "Brand new restaurants in your area",
+        "share_url": "https://www.zomato.com/bengaluru/new",
+        "discount": "Free Delivery"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 3,
+        "res_count": 30,
+        "image_url": "https://b.zmtcdn.com/data/collections/c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6.jpg",
+        "url": "https://www.zomato.com/bengaluru/budget-restaurants",
+        "title": "Budget Meals Under ₹199",
+        "description": "Delicious food that's easy on the pocket",
+        "share_url": "https://www.zomato.com/bengaluru/budget",
+        "discount": "Starts ₹99"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 4,
+        "res_count": 15,
+        "image_url": "https://b.zmtcdn.com/data/collections/d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1.jpg",
+        "url": "https://www.zomato.com/bengaluru/late-night",
+        "title": "Late Night Delivery",
+        "description": "Open past midnight and delivering to you",
+        "share_url": "https://www.zomato.com/bengaluru/late-night",
+        "discount": "Open till 2 AM"
+      }
+    },
+    {
+      "collection": {
+        "collection_id": 5,
+        "res_count": 22,
+        "image_url": "https://b.zmtcdn.com/data/collections/e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2.jpg",
+        "url": "https://www.zomato.com/bengaluru/pure-veg",
+        "title": "Pure Veg Restaurants",
+        "description": "100% vegetarian options near you",
+        "share_url": "https://www.zomato.com/bengaluru/veg",
+        "discount": "50% OFF first order"
+      }
+    }
+  ],
+  "has_more": 0,
+  "display_text": "Explore our curated collections"
+}

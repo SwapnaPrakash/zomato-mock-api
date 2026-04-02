@@ -1,0 +1,29 @@
+{
+  "user": {
+    "id": "user_001",
+    "name": "Rahul Verma",
+    "email": "rahul.verma@gmail.com",
+    "phone": "9876543210",
+    "profile_image": "https://b.zmtcdn.com/data/user_profile_pictures/v/rahul_verma.jpg",
+    "foodie_level": "Big Foodie",
+    "foodie_level_num": 4,
+    "addresses": [
+      {
+        "id": "addr_001",
+        "label": "Home",
+        "full_address": "42, 3rd Floor, 12th Main, Koramangala 4th Block, Bengaluru - 560034",
+        "landmark": "Near Sony Centre",
+        "latitude": 12.9352,
+        "longitude": 77.6245
+      },
+      {
+        "id": "addr_002",
+        "label": "Work",
+        "full_address": "RMZ Ecospace, Bellandur, Outer Ring Road, Bengaluru - 560103",
+        "landmark": "Near Eco World",
+        "latitude": 12.9282,
+        "longitude": 77.6957
+      }
+    ]
+  }
+}

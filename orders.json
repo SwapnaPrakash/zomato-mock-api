@@ -1,0 +1,112 @@
+{
+  "orders": [
+    {
+      "order": {
+        "id": "ord_20240115_001",
+        "restaurant_id": "101",
+        "restaurant_name": "Meghana Foods",
+        "restaurant_image": "https://b.zmtcdn.com/data/pictures/chains/1/50115/a87c6b6f2e9a9f5e2e5a9f5e2e5a9f5e_featured_thumb.png",
+        "status": "Delivered",
+        "status_color": "3F7E00",
+        "placed_at": "2024-01-15 13:45:00",
+        "delivered_at": "2024-01-15 14:20:00",
+        "time_friendly": "Yesterday, 1:45 PM",
+        "total_amount": 528,
+        "items": [
+          { "name": "Chicken Biryani", "quantity": 2, "price": 249 }
+        ],
+        "delivery_address": "42, 3rd Floor, Koramangala 4th Block",
+        "can_reorder": true,
+        "can_rate": false,
+        "rating": 5
+      }
+    },
+    {
+      "order": {
+        "id": "ord_20240112_002",
+        "restaurant_id": "103",
+        "restaurant_name": "Pizza Hut",
+        "restaurant_image": "https://b.zmtcdn.com/data/pictures/chains/3/50117/c09e8d8h4g1c1h7g4g7c1h7g4g7c1h7_featured_thumb.png",
+        "status": "Delivered",
+        "status_color": "3F7E00",
+        "placed_at": "2024-01-12 19:30:00",
+        "delivered_at": "2024-01-12 20:10:00",
+        "time_friendly": "3 days ago, 7:30 PM",
+        "total_amount": 879,
+        "items": [
+          { "name": "Pepperoni Pizza (Medium)", "quantity": 1, "price": 649 },
+          { "name": "Garlic Bread", "quantity": 1, "price": 179 }
+        ],
+        "delivery_address": "42, 3rd Floor, Koramangala 4th Block",
+        "can_reorder": true,
+        "can_rate": false,
+        "rating": 4
+      }
+    },
+    {
+      "order": {
+        "id": "ord_20240110_003",
+        "restaurant_id": "104",
+        "restaurant_name": "McDonald's",
+        "restaurant_image": "https://b.zmtcdn.com/data/pictures/chains/4/50118/d10f9e9i5h2d2i8h5h8d2i8h5h8d2i8_featured_thumb.png",
+        "status": "Delivered",
+        "status_color": "3F7E00",
+        "placed_at": "2024-01-10 12:15:00",
+        "delivered_at": "2024-01-10 12:45:00",
+        "time_friendly": "5 days ago, 12:15 PM",
+        "total_amount": 418,
+        "items": [
+          { "name": "McSpicy Chicken Burger", "quantity": 2, "price": 179 },
+          { "name": "McAloo Tikki", "quantity": 1, "price": 50 }
+        ],
+        "delivery_address": "RMZ Ecospace, Bellandur",
+        "can_reorder": true,
+        "can_rate": false,
+        "rating": 4
+      }
+    },
+    {
+      "order": {
+        "id": "ord_20240105_004",
+        "restaurant_id": "105",
+        "restaurant_name": "Truffles",
+        "restaurant_image": "https://b.zmtcdn.com/data/pictures/chains/5/50119/e21g0f0j6i3e3j9i6i9e3j9i6i9e3j9_featured_thumb.png",
+        "status": "Delivered",
+        "status_color": "3F7E00",
+        "placed_at": "2024-01-05 20:00:00",
+        "delivered_at": "2024-01-05 20:52:00",
+        "time_friendly": "Jan 5, 8:00 PM",
+        "total_amount": 946,
+        "items": [
+          { "name": "The Bombay Burger", "quantity": 2, "price": 349 },
+          { "name": "Loaded Fries", "quantity": 1, "price": 199 }
+        ],
+        "delivery_address": "42, 3rd Floor, Koramangala 4th Block",
+        "can_reorder": true,
+        "can_rate": true,
+        "rating": null
+      }
+    },
+    {
+      "order": {
+        "id": "ord_20231228_005",
+        "restaurant_id": "107",
+        "restaurant_name": "Behrouz Biryani",
+        "restaurant_image": "https://b.zmtcdn.com/data/pictures/chains/7/50121/g43i2h2l8k5g5l1k8k1g5l1k8k1g5l1_featured_thumb.png",
+        "status": "Delivered",
+        "status_color": "3F7E00",
+        "placed_at": "2023-12-28 13:00:00",
+        "delivered_at": "2023-12-28 13:55:00",
+        "time_friendly": "Dec 28, 1:00 PM",
+        "total_amount": 748,
+        "items": [
+          { "name": "Mughal-E-Azam Biryani", "quantity": 2, "price": 349 }
+        ],
+        "delivery_address": "42, 3rd Floor, Koramangala 4th Block",
+        "can_reorder": true,
+        "can_rate": false,
+        "rating": 5
+      }
+    }
+  ]
+}

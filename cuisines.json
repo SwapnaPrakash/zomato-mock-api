@@ -1,0 +1,16 @@
+{
+  "cuisines": [
+    { "cuisine": { "cuisine_id": 1,  "cuisine_name": "Biryani",      "image_url": "https://b.zmtcdn.com/data/dish_photos/3a/d1/f46b6f0eab0f9c4b2e5e9a6b0a9d43a.jpg" } },
+    { "cuisine": { "cuisine_id": 2,  "cuisine_name": "Pizza",        "image_url": "https://b.zmtcdn.com/data/dish_photos/7b/e4/a9f3bc2a2f9c5b8d0e4c8a9f1d2b4e7.jpg" } },
+    { "cuisine": { "cuisine_id": 3,  "cuisine_name": "Burger",       "image_url": "https://b.zmtcdn.com/data/dish_photos/2c/f5/b8a4cd3b3a8d6c9e1f5d7b8c2e3f4a5.jpg" } },
+    { "cuisine": { "cuisine_id": 4,  "cuisine_name": "North Indian",  "image_url": "https://b.zmtcdn.com/data/dish_photos/4d/g6/c9b5de4c4b9e7d0f2g6e8c9d3f4g5b.jpg" } },
+    { "cuisine": { "cuisine_id": 5,  "cuisine_name": "South Indian",  "image_url": "https://b.zmtcdn.com/data/dish_photos/5e/h7/d0c6ef5d5c0f8e1g3h7f9d0e4g5h6c.jpg" } },
+    { "cuisine": { "cuisine_id": 6,  "cuisine_name": "Chinese",      "image_url": "https://b.zmtcdn.com/data/dish_photos/6f/i8/e1d7fg6e6d1g9f2h4i8g0e1f5h6i7d.jpg" } },
+    { "cuisine": { "cuisine_id": 7,  "cuisine_name": "Fast Food",    "image_url": "https://b.zmtcdn.com/data/dish_photos/7g/j9/f2e8gh7f7e2h0g3i5j9h1f2g6i7j8e.jpg" } },
+    { "cuisine": { "cuisine_id": 8,  "cuisine_name": "Desserts",     "image_url": "https://b.zmtcdn.com/data/dish_photos/8h/k0/g3f9hi8g8f3i1h4j6k0i2g3h7j8k9f.jpg" } },
+    { "cuisine": { "cuisine_id": 9,  "cuisine_name": "Healthy",      "image_url": "https://b.zmtcdn.com/data/dish_photos/9i/l1/h4g0ij9h9g4j2i5k7l1j3h4i8k9l0g.jpg" } },
+    { "cuisine": { "cuisine_id": 10, "cuisine_name": "Rolls",        "image_url": "https://b.zmtcdn.com/data/dish_photos/0j/m2/i5h1jk0i0h5k3j6l8m2k4i5j9l0m1h.jpg" } },
+    { "cuisine": { "cuisine_id": 11, "cuisine_name": "Momos",        "image_url": "https://b.zmtcdn.com/data/dish_photos/1k/n3/j6i2kl1j1i6l4k7m9n3l5j6k0m1n2i.jpg" } },
+    { "cuisine": { "cuisine_id": 12, "cuisine_name": "Pasta",        "image_url": "https://b.zmtcdn.com/data/dish_photos/2l/o4/k7j3lm2k2j7m5l8n0o4m6k7l1n2o3j.jpg" } }
+  ]
+}

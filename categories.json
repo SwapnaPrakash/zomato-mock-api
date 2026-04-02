@@ -1,0 +1,10 @@
+{
+  "categories": [
+    { "categories": { "id": 1, "name": "Delivery", "image_url": "https://b.zmtcdn.com/data/o2_assets/02951b7d7d5424c77e78c43d92a85541587130002.png" } },
+    { "categories": { "id": 2, "name": "Dine-out", "image_url": "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30dc3031587130003.png" } },
+    { "categories": { "id": 3, "name": "Nightlife", "image_url": "https://b.zmtcdn.com/data/o2_assets/2dabc69b4b0d3d30d4ca5cc5c0b88ad71587130004.png" } },
+    { "categories": { "id": 4, "name": "Catching-up", "image_url": "https://b.zmtcdn.com/data/o2_assets/a5a5d4ef90dd6af8ffc5c8dbf5c0490b1587130006.png" } },
+    { "categories": { "id": 5, "name": "Takeaway", "image_url": "https://b.zmtcdn.com/data/o2_assets/cb8f07f18e62aeda9b87a73ad3f70e041587130005.png" } },
+    { "categories": { "id": 6, "name": "Cafes", "image_url": "https://b.zmtcdn.com/data/o2_assets/cb8f07f18e62aeda9b87a73ad3f70e041587130005.png" } }
+  ]
+}

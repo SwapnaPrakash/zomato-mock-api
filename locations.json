@@ -1,0 +1,59 @@
+{
+  "location_suggestions": [
+    {
+      "entity_type": "subzone",
+      "entity_id": 36932,
+      "title": "Koramangala, Bengaluru",
+      "latitude": 12.9352,
+      "longitude": 77.6245,
+      "city_id": 4,
+      "city_name": "Bengaluru",
+      "country_id": 1,
+      "country_name": "India"
+    },
+    {
+      "entity_type": "subzone",
+      "entity_id": 36933,
+      "title": "Indiranagar, Bengaluru",
+      "latitude": 12.9784,
+      "longitude": 77.6408,
+      "city_id": 4,
+      "city_name": "Bengaluru",
+      "country_id": 1,
+      "country_name": "India"
+    },
+    {
+      "entity_type": "subzone",
+      "entity_id": 36934,
+      "title": "HSR Layout, Bengaluru",
+      "latitude": 12.9116,
+      "longitude": 77.6389,
+      "city_id": 4,
+      "city_name": "Bengaluru",
+      "country_id": 1,
+      "country_name": "India"
+    },
+    {
+      "entity_type": "subzone",
+      "entity_id": 36935,
+      "title": "Whitefield, Bengaluru",
+      "latitude": 12.9698,
+      "longitude": 77.7500,
+      "city_id": 4,
+      "city_name": "Bengaluru",
+      "country_id": 1,
+      "country_name": "India"
+    },
+    {
+      "entity_type": "subzone",
+      "entity_id": 36936,
+      "title": "Marathahalli, Bengaluru",
+      "latitude": 12.9564,
+      "longitude": 77.7010,
+      "city_id": 4,
+      "city_name": "Bengaluru",
+      "country_id": 1,
+      "country_name": "India"
+    }
+  ]
+}

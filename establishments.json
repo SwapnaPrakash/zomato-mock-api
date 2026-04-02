@@ -1,0 +1,14 @@
+{
+  "establishments": [
+    { "establishment": { "id": 1,  "name": "Casual Dining" } },
+    { "establishment": { "id": 2,  "name": "Quick Bites" } },
+    { "establishment": { "id": 3,  "name": "Cafe" } },
+    { "establishment": { "id": 4,  "name": "Bakery" } },
+    { "establishment": { "id": 5,  "name": "Fine Dining" } },
+    { "establishment": { "id": 6,  "name": "Cloud Kitchen" } },
+    { "establishment": { "id": 7,  "name": "Food Court" } },
+    { "establishment": { "id": 8,  "name": "Dhaba" } },
+    { "establishment": { "id": 9,  "name": "Sweet Shop" } },
+    { "establishment": { "id": 10, "name": "Beverage Shop" } }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "101",
+  "name": "Meghana Foods",
+  "url": "https://www.zomato.com/bengaluru/meghana-foods",
+  "location": {
+    "address": "76, 11th Cross, Koramangala 5th Block, Bengaluru",
+    "locality": "Koramangala 5th Block",
+    "city": "Bengaluru",
+    "city_id": 4,
+    "latitude": "12.9352",
+    "longitude": "77.6245",
+    "zipcode": "560095"
+  },
+  "cuisines": "Biryani, Andhra, South Indian",
+  "average_cost_for_two": 600,
+  "price_range": 2,
+  "currency": "Rs.",
+  "thumb": "https://b.zmtcdn.com/data/pictures/chains/1/50115/a87c6b6f2e9a9f5e2e5a9f5e2e5a9f5e_featured_thumb.png",
+  "featured_image": "https://b.zmtcdn.com/data/pictures/chains/1/50115/a87c6b6f2e9a9f5e2e5a9f5e2e5a9f5e_featured_v2.png",
+  "photos_url": "https://www.zomato.com/bengaluru/meghana-foods/photos",
+  "menu_url": "https://www.zomato.com/bengaluru/meghana-foods/menu",
+  "user_rating": {
+    "aggregate_rating": "4.6",
+    "rating_text": "Excellent",
+    "rating_color": "3F7E00",
+    "votes": "12547"
+  },
+  "has_online_delivery": 1,
+  "is_delivering_now": 1,
+  "estimated_delivery_time": 30,
+  "minimum_order": 100,
+  "offers": ["50% off upto ₹100", "Free Delivery above ₹199"],
+  "timings": "11 AM – 11:30 PM (Mon-Sun)",
+  "highlights": ["Home Delivery", "Takeaway Available", "Indoor Seating", "Wallet Accepted"],
+  "establishment": ["Casual Dining"],
+  "all_reviews_count": 12547,
+  "total_photos": 843
+}

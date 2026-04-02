@@ -1,0 +1,102 @@
+{
+  "reviews_count": 12547,
+  "reviews_start": 0,
+  "reviews_shown": 5,
+  "user_reviews": [
+    {
+      "review": {
+        "id": 38856001,
+        "rating": 5,
+        "review_text": "Best biryani in Bengaluru hands down! The chicken is incredibly tender and the rice is perfectly cooked. The salan on the side makes it even better. Will definitely order again!",
+        "rating_color": "3F7E00",
+        "review_time_friendly": "2 days ago",
+        "rating_text": "Excellent",
+        "timestamp": 1704844800,
+        "likes": 24,
+        "user": {
+          "name": "Priya Sharma",
+          "zomato_handle": "priya_s",
+          "profile_image": "https://b.zmtcdn.com/data/user_profile_pictures/s/priya_sharma.jpg",
+          "foodie_level": "Super Foodie",
+          "foodie_level_num": 5
+        }
+      }
+    },
+    {
+      "review": {
+        "id": 38856002,
+        "rating": 4,
+        "review_text": "Consistent quality as always. The mutton biryani is a must-try. Portion size is good for the price. Delivery was on time.",
+        "rating_color": "5BA829",
+        "review_time_friendly": "1 week ago",
+        "rating_text": "Very Good",
+        "timestamp": 1704240000,
+        "likes": 12,
+        "user": {
+          "name": "Rahul Kumar",
+          "zomato_handle": "rahul_k",
+          "profile_image": "https://b.zmtcdn.com/data/user_profile_pictures/k/rahul_kumar.jpg",
+          "foodie_level": "Regular",
+          "foodie_level_num": 2
+        }
+      }
+    },
+    {
+      "review": {
+        "id": 38856003,
+        "rating": 5,
+        "review_text": "Meghana Foods never disappoints! Their chicken biryani is legendary in Bengaluru. The raita is fresh and the packaging is spill-proof. 10/10 would recommend.",
+        "rating_color": "3F7E00",
+        "review_time_friendly": "2 weeks ago",
+        "rating_text": "Excellent",
+        "timestamp": 1703635200,
+        "likes": 31,
+        "user": {
+          "name": "Ananya Reddy",
+          "zomato_handle": "ananya_r",
+          "profile_image": "https://b.zmtcdn.com/data/user_profile_pictures/r/ananya_reddy.jpg",
+          "foodie_level": "Big Foodie",
+          "foodie_level_num": 4
+        }
+      }
+    },
+    {
+      "review": {
+        "id": 38856004,
+        "rating": 4,
+        "review_text": "Good food but took 45 mins for delivery. The biryani itself was hot and tasty when it arrived. Chicken 65 was crispy and delicious. Overall happy with the order.",
+        "rating_color": "5BA829",
+        "review_time_friendly": "3 weeks ago",
+        "rating_text": "Very Good",
+        "timestamp": 1703030400,
+        "likes": 7,
+        "user": {
+          "name": "Arjun Nair",
+          "zomato_handle": "arjun_n",
+          "profile_image": "https://b.zmtcdn.com/data/user_profile_pictures/n/arjun_nair.jpg",
+          "foodie_level": "Foodie",
+          "foodie_level_num": 3
+        }
+      }
+    },
+    {
+      "review": {
+        "id": 38856005,
+        "rating": 5,
+        "review_text": "Ordered for office lunch for 10 people. Everyone loved it! The bulk order was handled perfectly. Prices are reasonable and the quality is outstanding.",
+        "rating_color": "3F7E00",
+        "review_time_friendly": "1 month ago",
+        "rating_text": "Excellent",
+        "timestamp": 1702252800,
+        "likes": 19,
+        "user": {
+          "name": "Sneha Patel",
+          "zomato_handle": "sneha_p",
+          "profile_image": "https://b.zmtcdn.com/data/user_profile_pictures/p/sneha_patel.jpg",
+          "foodie_level": "Super Foodie",
+          "foodie_level_num": 5
+        }
+      }
+    }
+  ]
+}

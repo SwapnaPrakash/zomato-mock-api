@@ -1,0 +1,263 @@
+{
+  "results_found": 8,
+  "results_start": 0,
+  "results_shown": 8,
+  "restaurants": [
+    {
+      "restaurant": {
+        "id": "101",
+        "name": "Meghana Foods",
+        "url": "https://www.zomato.com/bengaluru/meghana-foods",
+        "location": {
+          "address": "76, 11th Cross, Koramangala 5th Block, Bengaluru",
+          "locality": "Koramangala",
+          "city": "Bengaluru",
+          "city_id": 4,
+          "latitude": "12.9352",
+          "longitude": "77.6245",
+          "zipcode": "560095"
+        },
+        "cuisines": "Biryani, Andhra, South Indian",
+        "average_cost_for_two": 600,
+        "price_range": 2,
+        "currency": "Rs.",
+        "thumb": "https://b.zmtcdn.com/data/pictures/chains/1/50115/a87c6b6f2e9a9f5e2e5a9f5e2e5a9f5e_featured_thumb.png",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/chains/1/50115/a87c6b6f2e9a9f5e2e5a9f5e2e5a9f5e_featured_v2.png",
+        "user_rating": {
+          "aggregate_rating": "4.6",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "votes": "12547"
+        },
+        "has_online_delivery": 1,
+        "is_delivering_now": 1,
+        "estimated_delivery_time": 30,
+        "minimum_order": 100
+      }
+    },
+    {
+      "restaurant": {
+        "id": "102",
+        "name": "Empire Restaurant",
+        "url": "https://www.zomato.com/bengaluru/empire-restaurant",
+        "location": {
+          "address": "Church Street, Shivajinagar, Bengaluru",
+          "locality": "Church Street",
+          "city": "Bengaluru",
+          "city_id": 4,
+          "latitude": "12.9762",
+          "longitude": "77.6033",
+          "zipcode": "560001"
+        },
+        "cuisines": "Biryani, North Indian, Kebabs",
+        "average_cost_for_two": 500,
+        "price_range": 2,
+        "currency": "Rs.",
+        "thumb": "https://b.zmtcdn.com/data/pictures/chains/2/50116/b98d7c7g3f0b0g6f3f6b0g6f3f6b0g6_featured_thumb.png",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/chains/2/50116/b98d7c7g3f0b0g6f3f6b0g6f3f6b0g6_featured_v2.png",
+        "user_rating": {
+          "aggregate_rating": "4.4",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "8932"
+        },
+        "has_online_delivery": 1,
+        "is_delivering_now": 1,
+        "estimated_delivery_time": 40,
+        "minimum_order": 150
+      }
+    },
+    {
+      "restaurant": {
+        "id": "103",
+        "name": "Pizza Hut",
+        "url": "https://www.zomato.com/bengaluru/pizza-hut",
+        "location": {
+          "address": "100 Feet Road, Indiranagar, Bengaluru",
+          "locality": "Indiranagar",
+          "city": "Bengaluru",
+          "city_id": 4,
+          "latitude": "12.9784",
+          "longitude": "77.6408",
+          "zipcode": "560038"
+        },
+        "cuisines": "Pizza, Italian, Pasta, Desserts",
+        "average_cost_for_two": 800,
+        "price_range": 3,
+        "currency": "Rs.",
+        "thumb": "https://b.zmtcdn.com/data/pictures/chains/3/50117/c09e8d8h4g1c1h7g4g7c1h7g4g7c1h7_featured_thumb.png",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/chains/3/50117/c09e8d8h4g1c1h7g4g7c1h7g4g7c1h7_featured_v2.png",
+        "user_rating": {
+          "aggregate_rating": "4.1",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "6734"
+        },
+        "has_online_delivery": 1,
+        "is_delivering_now": 1,
+        "estimated_delivery_time": 35,
+        "minimum_order": 200
+      }
+    },
+    {
+      "restaurant": {
+        "id": "104",
+        "name": "McDonald's",
+        "url": "https://www.zomato.com/bengaluru/mcdonalds",
+        "location": {
+          "address": "Brigade Road, Central Bengaluru",
+          "locality": "Brigade Road",
+          "city": "Bengaluru",
+          "city_id": 4,
+          "latitude": "12.9718",
+          "longitude": "77.6087",
+          "zipcode": "560025"
+        },
+        "cuisines": "Burger, Fast Food, American, Wraps",
+        "average_cost_for_two": 400,
+        "price_range": 2,
+        "currency": "Rs.",
+        "thumb": "https://b.zmtcdn.com/data/pictures/chains/4/50118/d10f9e9i5h2d2i8h5h8d2i8h5h8d2i8_featured_thumb.png",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/chains/4/50118/d10f9e9i5h2d2i8h5h8d2i8h5h8d2i8_featured_v2.png",
+        "user_rating": {
+          "aggregate_rating": "4.2",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "15234"
+        },
+        "has_online_delivery": 1,
+        "is_delivering_now": 1,
+        "estimated_delivery_time": 25,
+        "minimum_order": 0
+      }
+    },
+    {
+      "restaurant": {
+        "id": "105",
+        "name": "Truffles",
+        "url": "https://www.zomato.com/bengaluru/truffles",
+        "location": {
+          "address": "12, St Marks Road, Central Bengaluru",
+          "locality": "St Marks Road",
+          "city": "Bengaluru",
+          "city_id": 4,
+          "latitude": "12.9701",
+          "longitude": "77.5985",
+          "zipcode": "560001"
+        },
+        "cuisines": "Burger, American, Sandwich, Desserts",
+        "average_cost_for_two": 700,
+        "price_range": 2,
+        "currency": "Rs.",
+        "thumb": "https://b.zmtcdn.com/data/pictures/chains/5/50119/e21g0f0j6i3e3j9i6i9e3j9i6i9e3j9_featured_thumb.png",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/chains/5/50119/e21g0f0j6i3e3j9i6i9e3j9i6i9e3j9_featured_v2.png",
+        "user_rating": {
+          "aggregate_rating": "4.7",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "votes": "9876"
+        },
+        "has_online_delivery": 1,
+        "is_delivering_now": 1,
+        "estimated_delivery_time": 45,
+        "minimum_order": 200
+      }
+    },
+    {
+      "restaurant": {
+        "id": "106",
+        "name": "Domino's Pizza",
+        "url": "https://www.zomato.com/bengaluru/dominos-pizza",
+        "location": {
+          "address": "Marathahalli, Outer Ring Road, Bengaluru",
+          "locality": "Marathahalli",
+          "city": "Bengaluru",
+          "city_id": 4,
+          "latitude": "12.9564",
+          "longitude": "77.7010",
+          "zipcode": "560037"
+        },
+        "cuisines": "Pizza, Italian, Pasta",
+        "average_cost_for_two": 500,
+        "price_range": 2,
+        "currency": "Rs.",
+        "thumb": "https://b.zmtcdn.com/data/pictures/chains/6/50120/f32h1g1k7j4f4k0j7j0f4k0j7j0f4k0_featured_thumb.png",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/chains/6/50120/f32h1g1k7j4f4k0j7j0f4k0j7j0f4k0_featured_v2.png",
+        "user_rating": {
+          "aggregate_rating": "4.0",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "votes": "18432"
+        },
+        "has_online_delivery": 1,
+        "is_delivering_now": 1,
+        "estimated_delivery_time": 30,
+        "minimum_order": 0
+      }
+    },
+    {
+      "restaurant": {
+        "id": "107",
+        "name": "Behrouz Biryani",
+        "url": "https://www.zomato.com/bengaluru/behrouz-biryani",
+        "location": {
+          "address": "HSR Layout, Bengaluru",
+          "locality": "HSR Layout",
+          "city": "Bengaluru",
+          "city_id": 4,
+          "latitude": "12.9116",
+          "longitude": "77.6389",
+          "zipcode": "560102"
+        },
+        "cuisines": "Biryani, Mughlai, North Indian",
+        "average_cost_for_two": 700,
+        "price_range": 3,
+        "currency": "Rs.",
+        "thumb": "https://b.zmtcdn.com/data/pictures/chains/7/50121/g43i2h2l8k5g5l1k8k1g5l1k8k1g5l1_featured_thumb.png",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/chains/7/50121/g43i2h2l8k5g5l1k8k1g5l1k8k1g5l1_featured_v2.png",
+        "user_rating": {
+          "aggregate_rating": "4.3",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "7651"
+        },
+        "has_online_delivery": 1,
+        "is_delivering_now": 1,
+        "estimated_delivery_time": 50,
+        "minimum_order": 250
+      }
+    },
+    {
+      "restaurant": {
+        "id": "108",
+        "name": "KFC",
+        "url": "https://www.zomato.com/bengaluru/kfc",
+        "location": {
+          "address": "JP Nagar, Bengaluru",
+          "locality": "JP Nagar",
+          "city": "Bengaluru",
+          "city_id": 4,
+          "latitude": "12.9060",
+          "longitude": "77.5856",
+          "zipcode": "560078"
+        },
+        "cuisines": "Fast Food, Burger, Chicken, American",
+        "average_cost_for_two": 450,
+        "price_range": 2,
+        "currency": "Rs.",
+        "thumb": "https://b.zmtcdn.com/data/pictures/chains/8/50122/h54j3i3m9l6h6m2l9l2h6m2l9l2h6m2_featured_thumb.png",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/chains/8/50122/h54j3i3m9l6h6m2l9l2h6m2l9l2h6m2_featured_v2.png",
+        "user_rating": {
+          "aggregate_rating": "4.1",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "21098"
+        },
+        "has_online_delivery": 1,
+        "is_delivering_now": 1,
+        "estimated_delivery_time": 30,
+        "minimum_order": 0
+      }
+    }
+  ]
+}
