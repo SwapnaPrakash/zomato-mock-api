@@ -13,16 +13,17 @@
   "popularity": {
     "popularity": "4.92",
     "nightlife_index": "4.75",
-    "top_cuisines": ["Biryani", "North Indian", "Chinese", "Pizza", "South Indian"]
+    "top_cuisines": ["Biryani", "North Indian", "Chinese"]
   },
   "nearby_restaurants": [
     {
       "restaurant": {
         "id": "101",
         "name": "Meghana Foods",
-        "url": "https://www.zomato.com/bengaluru/meghana-foods",
+        "featured_image": "https://picsum.photos/seed/meghana/600/300",
+        "thumb": "https://picsum.photos/seed/meghana/200/200",
         "location": {
-          "address": "76, 11th Cross, Koramangala 5th Block, Bengaluru",
+          "address": "76, 11th Cross, Koramangala 5th Block",
           "locality": "Koramangala",
           "city": "Bengaluru",
           "city_id": 4,
@@ -34,10 +35,6 @@
         "average_cost_for_two": 600,
         "price_range": 2,
         "currency": "Rs.",
-        "thumb": "https://picsum.photos/seed/meghana/200/200",
-        "featured_image": "https://picsum.photos/seed/meghana/600/300",
-        "photos_url": "https://www.zomato.com/bengaluru/meghana-foods/photos",
-        "menu_url": "https://www.zomato.com/bengaluru/meghana-foods/menu",
         "user_rating": {
           "aggregate_rating": "4.6",
           "rating_text": "Excellent",
@@ -55,9 +52,10 @@
       "restaurant": {
         "id": "102",
         "name": "Empire Restaurant",
-        "url": "https://www.zomato.com/bengaluru/empire-restaurant",
+        "featured_image": "https://picsum.photos/seed/empire/600/300",
+        "thumb": "https://picsum.photos/seed/empire/200/200",
         "location": {
-          "address": "Church Street, Shivajinagar, Bengaluru",
+          "address": "Church Street, Shivajinagar",
           "locality": "Church Street",
           "city": "Bengaluru",
           "city_id": 4,
@@ -69,10 +67,6 @@
         "average_cost_for_two": 500,
         "price_range": 2,
         "currency": "Rs.",
-        "thumb": "https://picsum.photos/seed/meghana/200/200",
-        "featured_image": "https://picsum.photos/seed/meghana/600/300",
-        "photos_url": "https://www.zomato.com/bengaluru/empire-restaurant/photos",
-        "menu_url": "https://www.zomato.com/bengaluru/empire-restaurant/menu",
         "user_rating": {
           "aggregate_rating": "4.4",
           "rating_text": "Very Good",
@@ -90,9 +84,10 @@
       "restaurant": {
         "id": "103",
         "name": "Pizza Hut",
-        "url": "https://www.zomato.com/bengaluru/pizza-hut",
+        "featured_image": "https://picsum.photos/seed/pizzahut/600/300",
+        "thumb": "https://picsum.photos/seed/pizzahut/200/200",
         "location": {
-          "address": "100 Feet Road, Indiranagar, Bengaluru",
+          "address": "100 Feet Road, Indiranagar",
           "locality": "Indiranagar",
           "city": "Bengaluru",
           "city_id": 4,
@@ -104,10 +99,6 @@
         "average_cost_for_two": 800,
         "price_range": 3,
         "currency": "Rs.",
-        "thumb": "https://picsum.photos/seed/meghana/200/200",
-        "featured_image": "https://picsum.photos/seed/meghana/600/300",
-        "photos_url": "https://www.zomato.com/bengaluru/pizza-hut/photos",
-        "menu_url": "https://www.zomato.com/bengaluru/pizza-hut/menu",
         "user_rating": {
           "aggregate_rating": "4.1",
           "rating_text": "Very Good",
@@ -118,14 +109,15 @@
         "is_delivering_now": 1,
         "estimated_delivery_time": 35,
         "minimum_order": 200,
-        "offers": ["Buy 1 Get 1 Free", "Free Garlic Bread"]
+        "offers": ["Buy 1 Get 1 Free"]
       }
     },
     {
       "restaurant": {
         "id": "104",
         "name": "McDonald's",
-        "url": "https://www.zomato.com/bengaluru/mcdonalds",
+        "featured_image": "https://picsum.photos/seed/mcdonalds/600/300",
+        "thumb": "https://picsum.photos/seed/mcdonalds/200/200",
         "location": {
           "address": "Brigade Road, Central Bengaluru",
           "locality": "Brigade Road",
@@ -139,10 +131,6 @@
         "average_cost_for_two": 400,
         "price_range": 2,
         "currency": "Rs.",
-        "thumb": "https://picsum.photos/seed/meghana/200/200",
-        "featured_image": "https://picsum.photos/seed/meghana/600/300",
-        "photos_url": "https://www.zomato.com/bengaluru/mcdonalds/photos",
-        "menu_url": "https://www.zomato.com/bengaluru/mcdonalds/menu",
         "user_rating": {
           "aggregate_rating": "4.2",
           "rating_text": "Very Good",
@@ -160,7 +148,8 @@
       "restaurant": {
         "id": "105",
         "name": "Truffles",
-        "url": "https://www.zomato.com/bengaluru/truffles",
+        "featured_image": "https://picsum.photos/seed/truffles/600/300",
+        "thumb": "https://picsum.photos/seed/truffles/200/200",
         "location": {
           "address": "12, St Marks Road, Central Bengaluru",
           "locality": "St Marks Road",
@@ -174,10 +163,6 @@
         "average_cost_for_two": 700,
         "price_range": 2,
         "currency": "Rs.",
-        "thumb": "https://picsum.photos/seed/meghana/200/200",
-        "featured_image": "https://picsum.photos/seed/meghana/600/300",
-        "photos_url": "https://www.zomato.com/bengaluru/truffles/photos",
-        "menu_url": "https://www.zomato.com/bengaluru/truffles/menu",
         "user_rating": {
           "aggregate_rating": "4.7",
           "rating_text": "Excellent",
@@ -195,9 +180,10 @@
       "restaurant": {
         "id": "106",
         "name": "Domino's Pizza",
-        "url": "https://www.zomato.com/bengaluru/dominos-pizza",
+        "featured_image": "https://picsum.photos/seed/dominos/600/300",
+        "thumb": "https://picsum.photos/seed/dominos/200/200",
         "location": {
-          "address": "Marathahalli, Outer Ring Road, Bengaluru",
+          "address": "Marathahalli, Outer Ring Road",
           "locality": "Marathahalli",
           "city": "Bengaluru",
           "city_id": 4,
@@ -209,10 +195,6 @@
         "average_cost_for_two": 500,
         "price_range": 2,
         "currency": "Rs.",
-        "thumb": "https://picsum.photos/seed/meghana/200/200",
-        "featured_image": "https://picsum.photos/seed/meghana/600/300",
-        "photos_url": "https://www.zomato.com/bengaluru/dominos/photos",
-        "menu_url": "https://www.zomato.com/bengaluru/dominos/menu",
         "user_rating": {
           "aggregate_rating": "4.0",
           "rating_text": "Good",
@@ -223,14 +205,15 @@
         "is_delivering_now": 1,
         "estimated_delivery_time": 30,
         "minimum_order": 0,
-        "offers": ["2 Pizzas at ₹599", "Free Garlic Bread on ₹400+"]
+        "offers": ["2 Pizzas at ₹599"]
       }
     },
     {
       "restaurant": {
         "id": "107",
         "name": "Behrouz Biryani",
-        "url": "https://www.zomato.com/bengaluru/behrouz-biryani",
+        "featured_image": "https://picsum.photos/seed/behrouz/600/300",
+        "thumb": "https://picsum.photos/seed/behrouz/200/200",
         "location": {
           "address": "HSR Layout, Bengaluru",
           "locality": "HSR Layout",
@@ -244,10 +227,6 @@
         "average_cost_for_two": 700,
         "price_range": 3,
         "currency": "Rs.",
-        "thumb": "https://picsum.photos/seed/meghana/200/200",
-        "featured_image": "https://picsum.photos/seed/meghana/600/300",
-        "photos_url": "https://www.zomato.com/bengaluru/behrouz-biryani/photos",
-        "menu_url": "https://www.zomato.com/bengaluru/behrouz-biryani/menu",
         "user_rating": {
           "aggregate_rating": "4.3",
           "rating_text": "Very Good",
@@ -265,7 +244,8 @@
       "restaurant": {
         "id": "108",
         "name": "KFC",
-        "url": "https://www.zomato.com/bengaluru/kfc",
+        "featured_image": "https://picsum.photos/seed/kfc/600/300",
+        "thumb": "https://picsum.photos/seed/kfc/200/200",
         "location": {
           "address": "JP Nagar, Bengaluru",
           "locality": "JP Nagar",
@@ -279,10 +259,6 @@
         "average_cost_for_two": 450,
         "price_range": 2,
         "currency": "Rs.",
-        "thumb": "https://picsum.photos/seed/meghana/200/200",
-        "featured_image": "https://picsum.photos/seed/meghana/600/300",
-        "photos_url": "https://www.zomato.com/bengaluru/kfc/photos",
-        "menu_url": "https://www.zomato.com/bengaluru/kfc/menu",
         "user_rating": {
           "aggregate_rating": "4.1",
           "rating_text": "Very Good",
