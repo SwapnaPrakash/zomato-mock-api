@@ -1,10 +1,60 @@
 {
   "categories": [
-    { "categories": { "id": 1, "name": "Delivery",     "image_url": "https://picsum.photos/seed/delivery/100/100" } },
-    { "categories": { "id": 2, "name": "Dine-out",     "image_url": "https://picsum.photos/seed/dineout/100/100" } },
-    { "categories": { "id": 3, "name": "Nightlife",    "image_url": "https://picsum.photos/seed/nightlife/100/100" } },
-    { "categories": { "id": 4, "name": "Catching-up",  "image_url": "https://picsum.photos/seed/catching/100/100" } },
-    { "categories": { "id": 5, "name": "Takeaway",     "image_url": "https://picsum.photos/seed/takeaway/100/100" } },
-    { "categories": { "id": 6, "name": "Cafes",        "image_url": "https://picsum.photos/seed/cafes/100/100" } }
+    {
+      "categories": {
+        "id": 1,
+        "name": "Biryani",
+        "image_url": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=100&h=100&fit=crop"
+      }
+    },
+    {
+      "categories": {
+        "id": 2,
+        "name": "Pizza",
+        "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=100&h=100&fit=crop"
+      }
+    },
+    {
+      "categories": {
+        "id": 3,
+        "name": "Burger",
+        "image_url": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=100&h=100&fit=crop"
+      }
+    },
+    {
+      "categories": {
+        "id": 4,
+        "name": "Chinese",
+        "image_url": "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=100&h=100&fit=crop"
+      }
+    },
+    {
+      "categories": {
+        "id": 5,
+        "name": "Dosa",
+        "image_url": "https://images.unsplash.com/photo-1630383249896-424e482df921?w=100&h=100&fit=crop"
+      }
+    },
+    {
+      "categories": {
+        "id": 6,
+        "name": "Desserts",
+        "image_url": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=100&h=100&fit=crop"
+      }
+    },
+    {
+      "categories": {
+        "id": 7,
+        "name": "Rolls",
+        "image_url": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=100&h=100&fit=crop"
+      }
+    },
+    {
+      "categories": {
+        "id": 8,
+        "name": "Pasta",
+        "image_url": "https://images.unsplash.com/photo-1551183053-bf91798d792c?w=100&h=100&fit=crop"
+      }
+    }
   ]
 }
