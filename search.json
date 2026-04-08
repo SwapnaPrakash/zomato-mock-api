@@ -1,15 +1,16 @@
 {
   "results_found": 8,
-  "results_start": 0,
   "results_shown": 8,
+  "results_start": 0,
   "restaurants": [
     {
       "restaurant": {
         "id": "101",
         "name": "Meghana Foods",
-        "url": "https://www.zomato.com/bengaluru/meghana-foods",
+        "featured_image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=600&h=300&fit=crop",
+        "thumb": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=200&h=200&fit=crop",
         "location": {
-          "address": "76, 11th Cross, Koramangala 5th Block, Bengaluru",
+          "address": "76, 11th Cross, Koramangala 5th Block",
           "locality": "Koramangala",
           "city": "Bengaluru",
           "city_id": 4,
@@ -21,8 +22,6 @@
         "average_cost_for_two": 600,
         "price_range": 2,
         "currency": "Rs.",
-        "thumb": "https://b.zmtcdn.com/data/pictures/chains/1/50115/a87c6b6f2e9a9f5e2e5a9f5e2e5a9f5e_featured_thumb.png",
-        "featured_image": "https://b.zmtcdn.com/data/pictures/chains/1/50115/a87c6b6f2e9a9f5e2e5a9f5e2e5a9f5e_featured_v2.png",
         "user_rating": {
           "aggregate_rating": "4.6",
           "rating_text": "Excellent",
@@ -32,16 +31,18 @@
         "has_online_delivery": 1,
         "is_delivering_now": 1,
         "estimated_delivery_time": 30,
-        "minimum_order": 100
+        "minimum_order": 100,
+        "offers": ["50% off upto ₹100"]
       }
     },
     {
       "restaurant": {
         "id": "102",
         "name": "Empire Restaurant",
-        "url": "https://www.zomato.com/bengaluru/empire-restaurant",
+        "featured_image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&h=300&fit=crop",
+        "thumb": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=200&h=200&fit=crop",
         "location": {
-          "address": "Church Street, Shivajinagar, Bengaluru",
+          "address": "Church Street, Shivajinagar",
           "locality": "Church Street",
           "city": "Bengaluru",
           "city_id": 4,
@@ -53,8 +54,6 @@
         "average_cost_for_two": 500,
         "price_range": 2,
         "currency": "Rs.",
-        "thumb": "https://b.zmtcdn.com/data/pictures/chains/2/50116/b98d7c7g3f0b0g6f3f6b0g6f3f6b0g6_featured_thumb.png",
-        "featured_image": "https://b.zmtcdn.com/data/pictures/chains/2/50116/b98d7c7g3f0b0g6f3f6b0g6f3f6b0g6_featured_v2.png",
         "user_rating": {
           "aggregate_rating": "4.4",
           "rating_text": "Very Good",
@@ -64,16 +63,18 @@
         "has_online_delivery": 1,
         "is_delivering_now": 1,
         "estimated_delivery_time": 40,
-        "minimum_order": 150
+        "minimum_order": 150,
+        "offers": ["60% off upto ₹120"]
       }
     },
     {
       "restaurant": {
         "id": "103",
         "name": "Pizza Hut",
-        "url": "https://www.zomato.com/bengaluru/pizza-hut",
+        "featured_image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=600&h=300&fit=crop",
+        "thumb": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=200&h=200&fit=crop",
         "location": {
-          "address": "100 Feet Road, Indiranagar, Bengaluru",
+          "address": "100 Feet Road, Indiranagar",
           "locality": "Indiranagar",
           "city": "Bengaluru",
           "city_id": 4,
@@ -85,8 +86,6 @@
         "average_cost_for_two": 800,
         "price_range": 3,
         "currency": "Rs.",
-        "thumb": "https://b.zmtcdn.com/data/pictures/chains/3/50117/c09e8d8h4g1c1h7g4g7c1h7g4g7c1h7_featured_thumb.png",
-        "featured_image": "https://b.zmtcdn.com/data/pictures/chains/3/50117/c09e8d8h4g1c1h7g4g7c1h7g4g7c1h7_featured_v2.png",
         "user_rating": {
           "aggregate_rating": "4.1",
           "rating_text": "Very Good",
@@ -96,14 +95,16 @@
         "has_online_delivery": 1,
         "is_delivering_now": 1,
         "estimated_delivery_time": 35,
-        "minimum_order": 200
+        "minimum_order": 200,
+        "offers": ["Buy 1 Get 1 Free"]
       }
     },
     {
       "restaurant": {
         "id": "104",
         "name": "McDonald's",
-        "url": "https://www.zomato.com/bengaluru/mcdonalds",
+        "featured_image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=600&h=300&fit=crop",
+        "thumb": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=200&h=200&fit=crop",
         "location": {
           "address": "Brigade Road, Central Bengaluru",
           "locality": "Brigade Road",
@@ -117,8 +118,6 @@
         "average_cost_for_two": 400,
         "price_range": 2,
         "currency": "Rs.",
-        "thumb": "https://b.zmtcdn.com/data/pictures/chains/4/50118/d10f9e9i5h2d2i8h5h8d2i8h5h8d2i8_featured_thumb.png",
-        "featured_image": "https://b.zmtcdn.com/data/pictures/chains/4/50118/d10f9e9i5h2d2i8h5h8d2i8h5h8d2i8_featured_v2.png",
         "user_rating": {
           "aggregate_rating": "4.2",
           "rating_text": "Very Good",
@@ -128,16 +127,18 @@
         "has_online_delivery": 1,
         "is_delivering_now": 1,
         "estimated_delivery_time": 25,
-        "minimum_order": 0
+        "minimum_order": 0,
+        "offers": ["30% off on McValue Combos"]
       }
     },
     {
       "restaurant": {
         "id": "105",
         "name": "Truffles",
-        "url": "https://www.zomato.com/bengaluru/truffles",
+        "featured_image": "https://images.unsplash.com/photo-1551782450-17144efb9c50?w=600&h=300&fit=crop",
+        "thumb": "https://images.unsplash.com/photo-1551782450-17144efb9c50?w=200&h=200&fit=crop",
         "location": {
-          "address": "12, St Marks Road, Central Bengaluru",
+          "address": "12, St Marks Road",
           "locality": "St Marks Road",
           "city": "Bengaluru",
           "city_id": 4,
@@ -149,8 +150,6 @@
         "average_cost_for_two": 700,
         "price_range": 2,
         "currency": "Rs.",
-        "thumb": "https://b.zmtcdn.com/data/pictures/chains/5/50119/e21g0f0j6i3e3j9i6i9e3j9i6i9e3j9_featured_thumb.png",
-        "featured_image": "https://b.zmtcdn.com/data/pictures/chains/5/50119/e21g0f0j6i3e3j9i6i9e3j9i6i9e3j9_featured_v2.png",
         "user_rating": {
           "aggregate_rating": "4.7",
           "rating_text": "Excellent",
@@ -160,16 +159,18 @@
         "has_online_delivery": 1,
         "is_delivering_now": 1,
         "estimated_delivery_time": 45,
-        "minimum_order": 200
+        "minimum_order": 200,
+        "offers": ["Flat ₹50 off"]
       }
     },
     {
       "restaurant": {
         "id": "106",
         "name": "Domino's Pizza",
-        "url": "https://www.zomato.com/bengaluru/dominos-pizza",
+        "featured_image": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?w=600&h=300&fit=crop",
+        "thumb": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?w=200&h=200&fit=crop",
         "location": {
-          "address": "Marathahalli, Outer Ring Road, Bengaluru",
+          "address": "Marathahalli, Outer Ring Road",
           "locality": "Marathahalli",
           "city": "Bengaluru",
           "city_id": 4,
@@ -181,8 +182,6 @@
         "average_cost_for_two": 500,
         "price_range": 2,
         "currency": "Rs.",
-        "thumb": "https://b.zmtcdn.com/data/pictures/chains/6/50120/f32h1g1k7j4f4k0j7j0f4k0j7j0f4k0_featured_thumb.png",
-        "featured_image": "https://b.zmtcdn.com/data/pictures/chains/6/50120/f32h1g1k7j4f4k0j7j0f4k0j7j0f4k0_featured_v2.png",
         "user_rating": {
           "aggregate_rating": "4.0",
           "rating_text": "Good",
@@ -192,14 +191,16 @@
         "has_online_delivery": 1,
         "is_delivering_now": 1,
         "estimated_delivery_time": 30,
-        "minimum_order": 0
+        "minimum_order": 0,
+        "offers": ["2 Pizzas at ₹599"]
       }
     },
     {
       "restaurant": {
         "id": "107",
         "name": "Behrouz Biryani",
-        "url": "https://www.zomato.com/bengaluru/behrouz-biryani",
+        "featured_image": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?w=600&h=300&fit=crop",
+        "thumb": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?w=200&h=200&fit=crop",
         "location": {
           "address": "HSR Layout, Bengaluru",
           "locality": "HSR Layout",
@@ -213,8 +214,6 @@
         "average_cost_for_two": 700,
         "price_range": 3,
         "currency": "Rs.",
-        "thumb": "https://b.zmtcdn.com/data/pictures/chains/7/50121/g43i2h2l8k5g5l1k8k1g5l1k8k1g5l1_featured_thumb.png",
-        "featured_image": "https://b.zmtcdn.com/data/pictures/chains/7/50121/g43i2h2l8k5g5l1k8k1g5l1k8k1g5l1_featured_v2.png",
         "user_rating": {
           "aggregate_rating": "4.3",
           "rating_text": "Very Good",
@@ -224,14 +223,16 @@
         "has_online_delivery": 1,
         "is_delivering_now": 1,
         "estimated_delivery_time": 50,
-        "minimum_order": 250
+        "minimum_order": 250,
+        "offers": ["₹100 off on ₹399+"]
       }
     },
     {
       "restaurant": {
         "id": "108",
         "name": "KFC",
-        "url": "https://www.zomato.com/bengaluru/kfc",
+        "featured_image": "https://images.unsplash.com/photo-1606755962773-d324e0a13086?w=600&h=300&fit=crop",
+        "thumb": "https://images.unsplash.com/photo-1606755962773-d324e0a13086?w=200&h=200&fit=crop",
         "location": {
           "address": "JP Nagar, Bengaluru",
           "locality": "JP Nagar",
@@ -245,8 +246,6 @@
         "average_cost_for_two": 450,
         "price_range": 2,
         "currency": "Rs.",
-        "thumb": "https://b.zmtcdn.com/data/pictures/chains/8/50122/h54j3i3m9l6h6m2l9l2h6m2l9l2h6m2_featured_thumb.png",
-        "featured_image": "https://b.zmtcdn.com/data/pictures/chains/8/50122/h54j3i3m9l6h6m2l9l2h6m2l9l2h6m2_featured_v2.png",
         "user_rating": {
           "aggregate_rating": "4.1",
           "rating_text": "Very Good",
@@ -256,7 +255,8 @@
         "has_online_delivery": 1,
         "is_delivering_now": 1,
         "estimated_delivery_time": 30,
-        "minimum_order": 0
+        "minimum_order": 0,
+        "offers": ["Buy 2 Get 1 Free on Buckets"]
       }
     }
   ]
