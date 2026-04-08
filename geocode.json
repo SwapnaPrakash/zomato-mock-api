@@ -10,18 +10,13 @@
     "country_id": 1,
     "country_name": "India"
   },
-  "popularity": {
-    "popularity": "4.92",
-    "nightlife_index": "4.75",
-    "top_cuisines": ["Biryani", "North Indian", "Chinese"]
-  },
   "nearby_restaurants": [
     {
       "restaurant": {
         "id": "101",
         "name": "Meghana Foods",
-        "featured_image": "https://picsum.photos/seed/meghana/600/300",
-        "thumb": "https://picsum.photos/seed/meghana/200/200",
+        "featured_image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=600&h=300&fit=crop",
+        "thumb": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=200&h=200&fit=crop",
         "location": {
           "address": "76, 11th Cross, Koramangala 5th Block",
           "locality": "Koramangala",
@@ -52,8 +47,8 @@
       "restaurant": {
         "id": "102",
         "name": "Empire Restaurant",
-        "featured_image": "https://picsum.photos/seed/empire/600/300",
-        "thumb": "https://picsum.photos/seed/empire/200/200",
+        "featured_image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&h=300&fit=crop",
+        "thumb": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=200&h=200&fit=crop",
         "location": {
           "address": "Church Street, Shivajinagar",
           "locality": "Church Street",
@@ -84,8 +79,8 @@
       "restaurant": {
         "id": "103",
         "name": "Pizza Hut",
-        "featured_image": "https://picsum.photos/seed/pizzahut/600/300",
-        "thumb": "https://picsum.photos/seed/pizzahut/200/200",
+        "featured_image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=600&h=300&fit=crop",
+        "thumb": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=200&h=200&fit=crop",
         "location": {
           "address": "100 Feet Road, Indiranagar",
           "locality": "Indiranagar",
@@ -116,8 +111,8 @@
       "restaurant": {
         "id": "104",
         "name": "McDonald's",
-        "featured_image": "https://picsum.photos/seed/mcdonalds/600/300",
-        "thumb": "https://picsum.photos/seed/mcdonalds/200/200",
+        "featured_image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=600&h=300&fit=crop",
+        "thumb": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=200&h=200&fit=crop",
         "location": {
           "address": "Brigade Road, Central Bengaluru",
           "locality": "Brigade Road",
@@ -148,10 +143,10 @@
       "restaurant": {
         "id": "105",
         "name": "Truffles",
-        "featured_image": "https://picsum.photos/seed/truffles/600/300",
-        "thumb": "https://picsum.photos/seed/truffles/200/200",
+        "featured_image": "https://images.unsplash.com/photo-1551782450-17144efb9c50?w=600&h=300&fit=crop",
+        "thumb": "https://images.unsplash.com/photo-1551782450-17144efb9c50?w=200&h=200&fit=crop",
         "location": {
-          "address": "12, St Marks Road, Central Bengaluru",
+          "address": "12, St Marks Road",
           "locality": "St Marks Road",
           "city": "Bengaluru",
           "city_id": 4,
@@ -180,8 +175,8 @@
       "restaurant": {
         "id": "106",
         "name": "Domino's Pizza",
-        "featured_image": "https://picsum.photos/seed/dominos/600/300",
-        "thumb": "https://picsum.photos/seed/dominos/200/200",
+        "featured_image": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?w=600&h=300&fit=crop",
+        "thumb": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?w=200&h=200&fit=crop",
         "location": {
           "address": "Marathahalli, Outer Ring Road",
           "locality": "Marathahalli",
@@ -212,8 +207,8 @@
       "restaurant": {
         "id": "107",
         "name": "Behrouz Biryani",
-        "featured_image": "https://picsum.photos/seed/behrouz/600/300",
-        "thumb": "https://picsum.photos/seed/behrouz/200/200",
+        "featured_image": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?w=600&h=300&fit=crop",
+        "thumb": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?w=200&h=200&fit=crop",
         "location": {
           "address": "HSR Layout, Bengaluru",
           "locality": "HSR Layout",
@@ -244,8 +239,8 @@
       "restaurant": {
         "id": "108",
         "name": "KFC",
-        "featured_image": "https://picsum.photos/seed/kfc/600/300",
-        "thumb": "https://picsum.photos/seed/kfc/200/200",
+        "featured_image": "https://images.unsplash.com/photo-1606755962773-d324e0a13086?w=600&h=300&fit=crop",
+        "thumb": "https://images.unsplash.com/photo-1606755962773-d324e0a13086?w=200&h=200&fit=crop",
         "location": {
           "address": "JP Nagar, Bengaluru",
           "locality": "JP Nagar",
