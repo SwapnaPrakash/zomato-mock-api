@@ -2,39 +2,18 @@
   "daily_menus": [
     {
       "daily_menu": {
-        "daily_menu_id": "1001",
+        "daily_menu_id": "1",
         "name": "Biryani",
-        "start_date": "2024-01-01 00:00:00",
-        "end_date": "2099-12-31 23:59:59",
         "dishes": [
           {
             "dish": {
               "dish_id": "d001",
-              "name": "Chicken Biryani",
+              "name": "Chicken Dum Biryani",
               "price": "249 Rs.",
-              "description": "Aromatic basmati rice slow-cooked with tender chicken, saffron and exotic spices. Served with raita and salan.",
-              "image_url": "https://b.zmtcdn.com/data/dish_photos/001/chicken_biryani.jpg",
+              "description": "Slow-cooked aromatic basmati rice with tender chicken pieces marinated in special spices",
+              "image_url": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=200&h=200&fit=crop",
               "is_veg": 0,
-              "is_recommended": 1,
-              "customisations": [
-                {
-                  "id": "c001",
-                  "name": "Size",
-                  "options": [
-                    { "id": "o001", "label": "Half Plate", "extra_price": 0 },
-                    { "id": "o002", "label": "Full Plate", "extra_price": 80 }
-                  ]
-                },
-                {
-                  "id": "c002",
-                  "name": "Spice Level",
-                  "options": [
-                    { "id": "o003", "label": "Mild", "extra_price": 0 },
-                    { "id": "o004", "label": "Medium", "extra_price": 0 },
-                    { "id": "o005", "label": "Spicy", "extra_price": 0 }
-                  ]
-                }
-              ]
+              "is_recommended": 1
             }
           },
           {
@@ -42,20 +21,10 @@
               "dish_id": "d002",
               "name": "Mutton Biryani",
               "price": "349 Rs.",
-              "description": "Slow-cooked mutton pieces with aged basmati rice, caramelized onions and freshly ground spices.",
-              "image_url": "https://b.zmtcdn.com/data/dish_photos/002/mutton_biryani.jpg",
+              "description": "Rich and flavorful biryani with slow-cooked tender mutton pieces",
+              "image_url": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?w=200&h=200&fit=crop",
               "is_veg": 0,
-              "is_recommended": 1,
-              "customisations": [
-                {
-                  "id": "c001",
-                  "name": "Size",
-                  "options": [
-                    { "id": "o001", "label": "Half Plate", "extra_price": 0 },
-                    { "id": "o002", "label": "Full Plate", "extra_price": 100 }
-                  ]
-                }
-              ]
+              "is_recommended": 1
             }
           },
           {
@@ -63,23 +32,21 @@
               "dish_id": "d003",
               "name": "Veg Biryani",
               "price": "179 Rs.",
-              "description": "Fragrant basmati rice cooked with seasonal vegetables, mint leaves and whole spices.",
-              "image_url": "https://b.zmtcdn.com/data/dish_photos/003/veg_biryani.jpg",
+              "description": "Fragrant basmati rice cooked with fresh vegetables and whole spices",
+              "image_url": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=200&h=200&fit=crop",
               "is_veg": 1,
-              "is_recommended": 0,
-              "customisations": []
+              "is_recommended": 0
             }
           },
           {
             "dish": {
               "dish_id": "d004",
-              "name": "Prawn Biryani",
-              "price": "329 Rs.",
-              "description": "Juicy prawns marinated in spices, layered with saffron-infused basmati rice.",
-              "image_url": "https://b.zmtcdn.com/data/dish_photos/004/prawn_biryani.jpg",
+              "name": "Egg Biryani",
+              "price": "199 Rs.",
+              "description": "Delicious biryani with boiled eggs and aromatic spices",
+              "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=200&h=200&fit=crop",
               "is_veg": 0,
-              "is_recommended": 0,
-              "customisations": []
+              "is_recommended": 0
             }
           }
         ]
@@ -87,63 +54,40 @@
     },
     {
       "daily_menu": {
-        "daily_menu_id": "1002",
+        "daily_menu_id": "2",
         "name": "Starters",
-        "start_date": "2024-01-01 00:00:00",
-        "end_date": "2099-12-31 23:59:59",
         "dishes": [
           {
             "dish": {
               "dish_id": "d005",
               "name": "Chicken 65",
               "price": "199 Rs.",
-              "description": "Crispy deep-fried chicken with bold spices, curry leaves and green chillies. A classic South Indian starter.",
-              "image_url": "https://b.zmtcdn.com/data/dish_photos/005/chicken_65.jpg",
+              "description": "Crispy deep-fried chicken with red chillies and curry leaves",
+              "image_url": "https://images.unsplash.com/photo-1606755962773-d324e0a13086?w=200&h=200&fit=crop",
               "is_veg": 0,
-              "is_recommended": 1,
-              "customisations": [
-                {
-                  "id": "c003",
-                  "name": "Quantity",
-                  "options": [
-                    { "id": "o006", "label": "Half (6 pcs)", "extra_price": 0 },
-                    { "id": "o007", "label": "Full (12 pcs)", "extra_price": 150 }
-                  ]
-                }
-              ]
+              "is_recommended": 1
             }
           },
           {
             "dish": {
               "dish_id": "d006",
-              "name": "Gobi Manchurian",
-              "price": "149 Rs.",
-              "description": "Crispy cauliflower florets tossed in spicy Indo-Chinese sauce with spring onions.",
-              "image_url": "https://b.zmtcdn.com/data/dish_photos/006/gobi_manchurian.jpg",
+              "name": "Paneer Tikka",
+              "price": "229 Rs.",
+              "description": "Grilled cottage cheese marinated in spiced yogurt with bell peppers and onions",
+              "image_url": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=200&h=200&fit=crop",
               "is_veg": 1,
-              "is_recommended": 0,
-              "customisations": [
-                {
-                  "id": "c004",
-                  "name": "Style",
-                  "options": [
-                    { "id": "o008", "label": "Dry", "extra_price": 0 },
-                    { "id": "o009", "label": "Gravy", "extra_price": 0 }
-                  ]
-                }
-              ]
+              "is_recommended": 1
             }
           },
           {
             "dish": {
               "dish_id": "d007",
-              "name": "Fish Fry",
-              "price": "259 Rs.",
-              "description": "Fresh fish marinated with turmeric, red chilli and lemon, shallow fried to perfection.",
-              "image_url": "https://b.zmtcdn.com/data/dish_photos/007/fish_fry.jpg",
-              "is_veg": 0,
-              "is_recommended": 0,
-              "customisations": []
+              "name": "Gobi Manchurian",
+              "price": "159 Rs.",
+              "description": "Crispy cauliflower in spicy Indo-Chinese sauce with spring onions",
+              "image_url": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=200&h=200&fit=crop",
+              "is_veg": 1,
+              "is_recommended": 0
             }
           }
         ]
@@ -151,54 +95,51 @@
     },
     {
       "daily_menu": {
-        "daily_menu_id": "1003",
+        "daily_menu_id": "3",
         "name": "Main Course",
-        "start_date": "2024-01-01 00:00:00",
-        "end_date": "2099-12-31 23:59:59",
         "dishes": [
           {
             "dish": {
               "dish_id": "d008",
               "name": "Butter Chicken",
               "price": "299 Rs.",
-              "description": "Tender chicken in a rich, creamy tomato-butter gravy with aromatic spices. Best enjoyed with naan.",
-              "image_url": "https://b.zmtcdn.com/data/dish_photos/008/butter_chicken.jpg",
+              "description": "Tender chicken in a rich creamy tomato-based sauce with aromatic spices",
+              "image_url": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=200&h=200&fit=crop",
               "is_veg": 0,
-              "is_recommended": 1,
-              "customisations": [
-                {
-                  "id": "c005",
-                  "name": "Gravy",
-                  "options": [
-                    { "id": "o010", "label": "Regular", "extra_price": 0 },
-                    { "id": "o011", "label": "Extra Rich", "extra_price": 30 }
-                  ]
-                }
-              ]
+              "is_recommended": 1
             }
           },
           {
             "dish": {
               "dish_id": "d009",
-              "name": "Paneer Butter Masala",
-              "price": "249 Rs.",
-              "description": "Soft cottage cheese cubes in a velvety tomato-cream sauce with kasuri methi.",
-              "image_url": "https://b.zmtcdn.com/data/dish_photos/009/paneer_butter_masala.jpg",
+              "name": "Dal Makhani",
+              "price": "199 Rs.",
+              "description": "Slow-cooked black lentils in a rich buttery tomato gravy",
+              "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=200&h=200&fit=crop",
               "is_veg": 1,
-              "is_recommended": 1,
-              "customisations": []
+              "is_recommended": 1
             }
           },
           {
             "dish": {
               "dish_id": "d010",
-              "name": "Dal Tadka",
-              "price": "149 Rs.",
-              "description": "Yellow lentils tempered with ghee, cumin, garlic and dried red chillies.",
-              "image_url": "https://b.zmtcdn.com/data/dish_photos/010/dal_tadka.jpg",
+              "name": "Palak Paneer",
+              "price": "229 Rs.",
+              "description": "Cottage cheese cubes in a smooth spinach-based gravy with spices",
+              "image_url": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=200&h=200&fit=crop",
               "is_veg": 1,
-              "is_recommended": 0,
-              "customisations": []
+              "is_recommended": 0
+            }
+          },
+          {
+            "dish": {
+              "dish_id": "d011",
+              "name": "Mutton Rogan Josh",
+              "price": "349 Rs.",
+              "description": "Slow-cooked mutton in Kashmiri spices with a rich aromatic gravy",
+              "image_url": "https://images.unsplash.com/photo-1545247181-516773cae754?w=200&h=200&fit=crop",
+              "is_veg": 0,
+              "is_recommended": 0
             }
           }
         ]
@@ -206,88 +147,40 @@
     },
     {
       "daily_menu": {
-        "daily_menu_id": "1004",
+        "daily_menu_id": "4",
         "name": "Breads",
-        "start_date": "2024-01-01 00:00:00",
-        "end_date": "2099-12-31 23:59:59",
         "dishes": [
           {
             "dish": {
-              "dish_id": "d011",
+              "dish_id": "d012",
               "name": "Butter Naan",
               "price": "49 Rs.",
-              "description": "Soft leavened bread baked in tandoor, brushed generously with butter.",
-              "image_url": "https://b.zmtcdn.com/data/dish_photos/011/butter_naan.jpg",
+              "description": "Soft leavened bread baked in tandoor with butter",
+              "image_url": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?w=200&h=200&fit=crop",
               "is_veg": 1,
-              "is_recommended": 0,
-              "customisations": []
-            }
-          },
-          {
-            "dish": {
-              "dish_id": "d012",
-              "name": "Garlic Naan",
-              "price": "59 Rs.",
-              "description": "Tandoor-baked bread topped with minced garlic and fresh coriander.",
-              "image_url": "https://b.zmtcdn.com/data/dish_photos/012/garlic_naan.jpg",
-              "is_veg": 1,
-              "is_recommended": 0,
-              "customisations": []
+              "is_recommended": 0
             }
           },
           {
             "dish": {
               "dish_id": "d013",
-              "name": "Tandoori Roti",
-              "price": "35 Rs.",
-              "description": "Whole wheat bread baked in a traditional clay tandoor.",
-              "image_url": "https://b.zmtcdn.com/data/dish_photos/013/tandoori_roti.jpg",
+              "name": "Garlic Naan",
+              "price": "59 Rs.",
+              "description": "Tandoor-baked bread topped with garlic and coriander",
+              "image_url": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?w=200&h=200&fit=crop",
               "is_veg": 1,
-              "is_recommended": 0,
-              "customisations": []
+              "is_recommended": 0
             }
-          }
-        ]
-      }
-    },
-    {
-      "daily_menu": {
-        "daily_menu_id": "1005",
-        "name": "Desserts",
-        "start_date": "2024-01-01 00:00:00",
-        "end_date": "2099-12-31 23:59:59",
-        "dishes": [
+          },
           {
             "dish": {
               "dish_id": "d014",
-              "name": "Gulab Jamun",
-              "price": "89 Rs.",
-              "description": "Soft milk-solid dumplings soaked in rose-flavoured sugar syrup. Served warm.",
-              "image_url": "https://b.zmtcdn.com/data/dish_photos/014/gulab_jamun.jpg",
+              "name": "Laccha Paratha",
+              "price": "69 Rs.",
+              "description": "Flaky multi-layered whole wheat bread cooked with butter",
+              "image_url": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?w=200&h=200&fit=crop",
               "is_veg": 1,
-              "is_recommended": 0,
-              "customisations": [
-                {
-                  "id": "c006",
-                  "name": "Quantity",
-                  "options": [
-                    { "id": "o012", "label": "2 pcs", "extra_price": 0 },
-                    { "id": "o013", "label": "4 pcs", "extra_price": 60 }
-                  ]
-                }
-              ]
-            }
-          },
-          {
-            "dish": {
-              "dish_id": "d015",
-              "name": "Double Ka Meetha",
-              "price": "129 Rs.",
-              "description": "Hyderabadi bread pudding soaked in sweetened milk, garnished with dry fruits.",
-              "image_url": "https://b.zmtcdn.com/data/dish_photos/015/double_ka_meetha.jpg",
-              "is_veg": 1,
-              "is_recommended": 1,
-              "customisations": []
+              "is_recommended": 0
             }
           }
         ]
@@ -295,43 +188,59 @@
     },
     {
       "daily_menu": {
-        "daily_menu_id": "1006",
-        "name": "Beverages",
-        "start_date": "2024-01-01 00:00:00",
-        "end_date": "2099-12-31 23:59:59",
+        "daily_menu_id": "5",
+        "name": "Desserts",
         "dishes": [
           {
             "dish": {
-              "dish_id": "d016",
-              "name": "Sweet Lassi",
-              "price": "79 Rs.",
-              "description": "Chilled blended yoghurt with sugar and a hint of cardamom.",
-              "image_url": "https://b.zmtcdn.com/data/dish_photos/016/sweet_lassi.jpg",
+              "dish_id": "d015",
+              "name": "Gulab Jamun",
+              "price": "89 Rs.",
+              "description": "Soft milk-solid dumplings soaked in rose-flavored sugar syrup",
+              "image_url": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=200&h=200&fit=crop",
               "is_veg": 1,
-              "is_recommended": 0,
-              "customisations": []
+              "is_recommended": 1
             }
           },
           {
             "dish": {
-              "dish_id": "d017",
-              "name": "Masala Chai",
-              "price": "49 Rs.",
-              "description": "Spiced Indian tea brewed with ginger, cardamom and cinnamon.",
-              "image_url": "https://b.zmtcdn.com/data/dish_photos/017/masala_chai.jpg",
+              "dish_id": "d016",
+              "name": "Kulfi",
+              "price": "99 Rs.",
+              "description": "Traditional Indian ice cream with saffron and pistachios",
+              "image_url": "https://images.unsplash.com/photo-1560008581-09826d1de69e?w=200&h=200&fit=crop",
               "is_veg": 1,
-              "is_recommended": 0,
-              "customisations": [
-                {
-                  "id": "c007",
-                  "name": "Sugar",
-                  "options": [
-                    { "id": "o014", "label": "Regular", "extra_price": 0 },
-                    { "id": "o015", "label": "Less Sugar", "extra_price": 0 },
-                    { "id": "o016", "label": "No Sugar", "extra_price": 0 }
-                  ]
-                }
-              ]
+              "is_recommended": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "daily_menu": {
+        "daily_menu_id": "6",
+        "name": "Beverages",
+        "dishes": [
+          {
+            "dish": {
+              "dish_id": "d017",
+              "name": "Mango Lassi",
+              "price": "79 Rs.",
+              "description": "Thick chilled yogurt drink blended with fresh mango pulp",
+              "image_url": "https://images.unsplash.com/photo-1553361371-9b22f78e8b1d?w=200&h=200&fit=crop",
+              "is_veg": 1,
+              "is_recommended": 1
+            }
+          },
+          {
+            "dish": {
+              "dish_id": "d018",
+              "name": "Masala Chaas",
+              "price": "49 Rs.",
+              "description": "Spiced buttermilk with cumin, ginger and fresh coriander",
+              "image_url": "https://images.unsplash.com/photo-1570696516188-ade861b84a49?w=200&h=200&fit=crop",
+              "is_veg": 1,
+              "is_recommended": 0
             }
           }
         ]
