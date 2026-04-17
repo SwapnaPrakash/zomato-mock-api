@@ -11,8 +11,8 @@
           "city": "Bengaluru"
         },
         "cuisines": "Biryani, South Indian",
-        "featured_image": "",
-        "thumb": "",
+        "featured_image": "https://picsum.photos/seed/meghana/600/300",
+        "thumb": "https://picsum.photos/seed/meghana/200/200",
         "user_rating": {
           "aggregate_rating": "4.6",
           "rating_text": "Excellent",
@@ -37,8 +37,8 @@
           "city": "Bengaluru"
         },
         "cuisines": "Pizza, Italian, Fast Food",
-        "featured_image": "",
-        "thumb": "",
+        "featured_image": "https://picsum.photos/seed/pizzahut/600/300",
+        "thumb": "https://picsum.photos/seed/pizzahut/200/200",
         "user_rating": {
           "aggregate_rating": "4.2",
           "rating_text": "Very Good",
@@ -63,8 +63,8 @@
           "city": "Bengaluru"
         },
         "cuisines": "Burgers, Fast Food, American",
-        "featured_image": "",
-        "thumb": "",
+        "featured_image": "https://picsum.photos/seed/burgerking/600/300",
+        "thumb": "https://picsum.photos/seed/burgerking/200/200",
         "user_rating": {
           "aggregate_rating": "4.0",
           "rating_text": "Good",
@@ -89,8 +89,8 @@
           "city": "Bengaluru"
         },
         "cuisines": "North Indian, Mughlai",
-        "featured_image": "",
-        "thumb": "",
+        "featured_image": "https://picsum.photos/seed/empire/600/300",
+        "thumb": "https://picsum.photos/seed/empire/200/200",
         "user_rating": {
           "aggregate_rating": "4.4",
           "rating_text": "Very Good",
@@ -115,8 +115,8 @@
           "city": "Bengaluru"
         },
         "cuisines": "Healthy, Sandwiches, American",
-        "featured_image": "",
-        "thumb": "",
+        "featured_image": "https://picsum.photos/seed/subway/600/300",
+        "thumb": "https://picsum.photos/seed/subway/200/200",
         "user_rating": {
           "aggregate_rating": "3.9",
           "rating_text": "Good",
@@ -128,6 +128,136 @@
         "has_delivery": 1,
         "avg_cost_for_two": 300,
         "offers": ["Free cookie on orders above ₹299"]
+      }
+    },
+    {
+      "restaurant": {
+        "R": { "res_id": 106 },
+        "id": "106",
+        "name": "McDonald's",
+        "location": {
+          "address": "Brigade Road, Central Bengaluru",
+          "locality": "Brigade Road",
+          "city": "Bengaluru"
+        },
+        "cuisines": "Burger, Fast Food, American, Wraps",
+        "featured_image": "https://picsum.photos/seed/mcdonalds/600/300",
+        "thumb": "https://picsum.photos/seed/mcdonalds/200/200",
+        "user_rating": {
+          "aggregate_rating": "4.2",
+          "rating_text": "Very Good",
+          "rating_color": "3F7E00",
+          "votes": "15,234"
+        },
+        "delivery_time": 25,
+        "is_delivering_now": 1,
+        "has_delivery": 1,
+        "avg_cost_for_two": 400,
+        "offers": ["30% off on McValue Combos"]
+      }
+    },
+    {
+      "restaurant": {
+        "R": { "res_id": 107 },
+        "id": "107",
+        "name": "Truffles",
+        "location": {
+          "address": "12, St Marks Road, Central Bengaluru",
+          "locality": "St Marks Road",
+          "city": "Bengaluru"
+        },
+        "cuisines": "Burger, American, Sandwich, Desserts",
+        "featured_image": "https://picsum.photos/seed/truffles/600/300",
+        "thumb": "https://picsum.photos/seed/truffles/200/200",
+        "user_rating": {
+          "aggregate_rating": "4.7",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "votes": "9,876"
+        },
+        "delivery_time": 45,
+        "is_delivering_now": 1,
+        "has_delivery": 1,
+        "avg_cost_for_two": 700,
+        "offers": ["Flat ₹50 off", "Free Dessert above ₹500"]
+      }
+    },
+    {
+      "restaurant": {
+        "R": { "res_id": 108 },
+        "id": "108",
+        "name": "Domino's Pizza",
+        "location": {
+          "address": "Marathahalli, Outer Ring Road",
+          "locality": "Marathahalli",
+          "city": "Bengaluru"
+        },
+        "cuisines": "Pizza, Italian, Pasta",
+        "featured_image": "https://picsum.photos/seed/dominos/600/300",
+        "thumb": "https://picsum.photos/seed/dominos/200/200",
+        "user_rating": {
+          "aggregate_rating": "4.0",
+          "rating_text": "Good",
+          "rating_color": "3F7E00",
+          "votes": "18,432"
+        },
+        "delivery_time": 30,
+        "is_delivering_now": 1,
+        "has_delivery": 1,
+        "avg_cost_for_two": 500,
+        "offers": ["2 Pizzas at ₹599"]
+      }
+    },
+    {
+      "restaurant": {
+        "R": { "res_id": 109 },
+        "id": "109",
+        "name": "Behrouz Biryani",
+        "location": {
+          "address": "HSR Layout, Bengaluru",
+          "locality": "HSR Layout",
+          "city": "Bengaluru"
+        },
+        "cuisines": "Biryani, Mughlai, North Indian",
+        "featured_image": "https://picsum.photos/seed/behrouz/600/300",
+        "thumb": "https://picsum.photos/seed/behrouz/200/200",
+        "user_rating": {
+          "aggregate_rating": "4.3",
+          "rating_text": "Very Good",
+          "rating_color": "3F7E00",
+          "votes": "7,651"
+        },
+        "delivery_time": 50,
+        "is_delivering_now": 1,
+        "has_delivery": 1,
+        "avg_cost_for_two": 700,
+        "offers": ["₹100 off on ₹399+"]
+      }
+    },
+    {
+      "restaurant": {
+        "R": { "res_id": 110 },
+        "id": "110",
+        "name": "KFC",
+        "location": {
+          "address": "JP Nagar, Bengaluru",
+          "locality": "JP Nagar",
+          "city": "Bengaluru"
+        },
+        "cuisines": "Fast Food, Burger, Chicken, American",
+        "featured_image": "https://picsum.photos/seed/kfc/600/300",
+        "thumb": "https://picsum.photos/seed/kfc/200/200",
+        "user_rating": {
+          "aggregate_rating": "4.1",
+          "rating_text": "Very Good",
+          "rating_color": "3F7E00",
+          "votes": "21,098"
+        },
+        "delivery_time": 30,
+        "is_delivering_now": 1,
+        "has_delivery": 1,
+        "avg_cost_for_two": 450,
+        "offers": ["Buy 2 Get 1 Free on Buckets"]
       }
     }
   ]
