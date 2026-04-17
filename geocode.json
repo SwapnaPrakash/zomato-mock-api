@@ -16,8 +16,6 @@
     "top_cuisines": ["Biryani", "North Indian", "Chinese"]
   },
   "nearby_restaurants": [
-
-    // ── KORAMANGALA ───────────────────────────────────────────────────
     {
       "restaurant": {
         "id": "101",
@@ -146,8 +144,6 @@
         "offers": ["Buy 1 Get 1 Free on Whoppers"]
       }
     },
-
-    // ── INDIRANAGAR ───────────────────────────────────────────────────
     {
       "restaurant": {
         "id": "201",
@@ -244,8 +240,6 @@
         "offers": ["10% off for new users"]
       }
     },
-
-    // ── HSR LAYOUT ────────────────────────────────────────────────────
     {
       "restaurant": {
         "id": "301",
@@ -342,8 +336,6 @@
         "offers": ["2 Pizzas at ₹599"]
       }
     },
-
-    // ── WHITEFIELD ────────────────────────────────────────────────────
     {
       "restaurant": {
         "id": "401",
@@ -440,8 +432,6 @@
         "offers": ["₹75 off on ₹349+"]
       }
     },
-
-    // ── ELECTRONIC CITY ───────────────────────────────────────────────
     {
       "restaurant": {
         "id": "501",
