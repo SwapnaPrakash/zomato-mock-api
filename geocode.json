@@ -2,7 +2,7 @@
   "location": {
     "entity_type": "subzone",
     "entity_id": 36932,
-    "title": "Koramangala, Bengaluru",
+    "title": "Bengaluru",
     "latitude": 12.9352,
     "longitude": 77.6245,
     "city_id": 4,
@@ -16,6 +16,8 @@
     "top_cuisines": ["Biryani", "North Indian", "Chinese"]
   },
   "nearby_restaurants": [
+
+    // ── KORAMANGALA ───────────────────────────────────────────────────
     {
       "restaurant": {
         "id": "101",
@@ -51,19 +53,51 @@
     {
       "restaurant": {
         "id": "102",
+        "name": "Truffles",
+        "featured_image": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=600&h=300&fit=crop",
+        "thumb": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=200&h=200&fit=crop",
+        "location": {
+          "address": "12, 4th Cross, Koramangala 4th Block",
+          "locality": "Koramangala",
+          "city": "Bengaluru",
+          "city_id": 4,
+          "latitude": "12.9340",
+          "longitude": "77.6230",
+          "zipcode": "560034"
+        },
+        "cuisines": "Burger, American, Sandwich, Desserts",
+        "average_cost_for_two": 700,
+        "price_range": 2,
+        "currency": "Rs.",
+        "user_rating": {
+          "aggregate_rating": "4.7",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "votes": "9876"
+        },
+        "has_online_delivery": 1,
+        "is_delivering_now": 1,
+        "estimated_delivery_time": 25,
+        "minimum_order": 200,
+        "offers": ["Flat ₹50 off", "Free Dessert above ₹500"]
+      }
+    },
+    {
+      "restaurant": {
+        "id": "103",
         "name": "Empire Restaurant",
         "featured_image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&h=300&fit=crop",
         "thumb": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=200&h=200&fit=crop",
         "location": {
-          "address": "Church Street, Shivajinagar",
-          "locality": "Church Street",
+          "address": "103, Church Street, Koramangala",
+          "locality": "Koramangala",
           "city": "Bengaluru",
           "city_id": 4,
-          "latitude": "12.9762",
-          "longitude": "77.6033",
-          "zipcode": "560001"
+          "latitude": "12.9338",
+          "longitude": "77.6235",
+          "zipcode": "560095"
         },
-        "cuisines": "Biryani, North Indian, Kebabs",
+        "cuisines": "North Indian, Mughlai, Kebabs",
         "average_cost_for_two": 500,
         "price_range": 2,
         "currency": "Rs.",
@@ -75,14 +109,80 @@
         },
         "has_online_delivery": 1,
         "is_delivering_now": 1,
-        "estimated_delivery_time": 40,
+        "estimated_delivery_time": 35,
         "minimum_order": 150,
-        "offers": ["60% off upto ₹120"]
+        "offers": ["20% off above ₹499"]
       }
     },
     {
       "restaurant": {
-        "id": "103",
+        "id": "104",
+        "name": "Burger King",
+        "featured_image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=600&h=300&fit=crop",
+        "thumb": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=200&h=200&fit=crop",
+        "location": {
+          "address": "Forum Mall, Koramangala",
+          "locality": "Koramangala",
+          "city": "Bengaluru",
+          "city_id": 4,
+          "latitude": "12.9355",
+          "longitude": "77.6260",
+          "zipcode": "560095"
+        },
+        "cuisines": "Burger, Fast Food, American",
+        "average_cost_for_two": 400,
+        "price_range": 2,
+        "currency": "Rs.",
+        "user_rating": {
+          "aggregate_rating": "4.0",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "votes": "6200"
+        },
+        "has_online_delivery": 1,
+        "is_delivering_now": 1,
+        "estimated_delivery_time": 20,
+        "minimum_order": 0,
+        "offers": ["Buy 1 Get 1 Free on Whoppers"]
+      }
+    },
+
+    // ── INDIRANAGAR ───────────────────────────────────────────────────
+    {
+      "restaurant": {
+        "id": "201",
+        "name": "Toit Brewpub",
+        "featured_image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=300&fit=crop",
+        "thumb": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&h=200&fit=crop",
+        "location": {
+          "address": "298, 100 Feet Road, Indiranagar",
+          "locality": "Indiranagar",
+          "city": "Bengaluru",
+          "city_id": 4,
+          "latitude": "12.9784",
+          "longitude": "77.6408",
+          "zipcode": "560038"
+        },
+        "cuisines": "Continental, Italian, Pizza, Burgers",
+        "average_cost_for_two": 1200,
+        "price_range": 3,
+        "currency": "Rs.",
+        "user_rating": {
+          "aggregate_rating": "4.8",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "votes": "23456"
+        },
+        "has_online_delivery": 1,
+        "is_delivering_now": 1,
+        "estimated_delivery_time": 40,
+        "minimum_order": 300,
+        "offers": ["15% off on orders above ₹799"]
+      }
+    },
+    {
+      "restaurant": {
+        "id": "202",
         "name": "Pizza Hut",
         "featured_image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=600&h=300&fit=crop",
         "thumb": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=200&h=200&fit=crop",
@@ -91,8 +191,8 @@
           "locality": "Indiranagar",
           "city": "Bengaluru",
           "city_id": 4,
-          "latitude": "12.9784",
-          "longitude": "77.6408",
+          "latitude": "12.9790",
+          "longitude": "77.6410",
           "zipcode": "560038"
         },
         "cuisines": "Pizza, Italian, Pasta, Desserts",
@@ -114,18 +214,84 @@
     },
     {
       "restaurant": {
-        "id": "104",
+        "id": "203",
+        "name": "Koshy's",
+        "featured_image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&h=300&fit=crop",
+        "thumb": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&h=200&fit=crop",
+        "location": {
+          "address": "39, St. Marks Road, Indiranagar",
+          "locality": "Indiranagar",
+          "city": "Bengaluru",
+          "city_id": 4,
+          "latitude": "12.9776",
+          "longitude": "77.6400",
+          "zipcode": "560038"
+        },
+        "cuisines": "Continental, South Indian, Breakfast",
+        "average_cost_for_two": 600,
+        "price_range": 2,
+        "currency": "Rs.",
+        "user_rating": {
+          "aggregate_rating": "4.5",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "votes": "11234"
+        },
+        "has_online_delivery": 1,
+        "is_delivering_now": 1,
+        "estimated_delivery_time": 30,
+        "minimum_order": 150,
+        "offers": ["10% off for new users"]
+      }
+    },
+
+    // ── HSR LAYOUT ────────────────────────────────────────────────────
+    {
+      "restaurant": {
+        "id": "301",
+        "name": "Behrouz Biryani",
+        "featured_image": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=600&h=300&fit=crop",
+        "thumb": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=200&h=200&fit=crop",
+        "location": {
+          "address": "Sector 7, HSR Layout",
+          "locality": "HSR Layout",
+          "city": "Bengaluru",
+          "city_id": 4,
+          "latitude": "12.9116",
+          "longitude": "77.6389",
+          "zipcode": "560102"
+        },
+        "cuisines": "Biryani, Mughlai, North Indian",
+        "average_cost_for_two": 700,
+        "price_range": 3,
+        "currency": "Rs.",
+        "user_rating": {
+          "aggregate_rating": "4.3",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "7651"
+        },
+        "has_online_delivery": 1,
+        "is_delivering_now": 1,
+        "estimated_delivery_time": 45,
+        "minimum_order": 250,
+        "offers": ["₹100 off on ₹399+"]
+      }
+    },
+    {
+      "restaurant": {
+        "id": "302",
         "name": "McDonald's",
         "featured_image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=600&h=300&fit=crop",
         "thumb": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=200&h=200&fit=crop",
         "location": {
-          "address": "Brigade Road, Central Bengaluru",
-          "locality": "Brigade Road",
+          "address": "27th Main Road, HSR Layout",
+          "locality": "HSR Layout",
           "city": "Bengaluru",
           "city_id": 4,
-          "latitude": "12.9718",
-          "longitude": "77.6087",
-          "zipcode": "560025"
+          "latitude": "12.9120",
+          "longitude": "77.6395",
+          "zipcode": "560102"
         },
         "cuisines": "Burger, Fast Food, American, Wraps",
         "average_cost_for_two": 400,
@@ -146,50 +312,18 @@
     },
     {
       "restaurant": {
-        "id": "105",
-        "name": "Truffles",
-        "featured_image": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=600&h=300&fit=crop",
-        "thumb": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=200&h=200&fit=crop",
-        "location": {
-          "address": "12, St Marks Road, Central Bengaluru",
-          "locality": "St Marks Road",
-          "city": "Bengaluru",
-          "city_id": 4,
-          "latitude": "12.9701",
-          "longitude": "77.5985",
-          "zipcode": "560001"
-        },
-        "cuisines": "Burger, American, Sandwich, Desserts",
-        "average_cost_for_two": 700,
-        "price_range": 2,
-        "currency": "Rs.",
-        "user_rating": {
-          "aggregate_rating": "4.7",
-          "rating_text": "Excellent",
-          "rating_color": "3F7E00",
-          "votes": "9876"
-        },
-        "has_online_delivery": 1,
-        "is_delivering_now": 1,
-        "estimated_delivery_time": 45,
-        "minimum_order": 200,
-        "offers": ["Flat ₹50 off", "Free Dessert above ₹500"]
-      }
-    },
-    {
-      "restaurant": {
-        "id": "106",
+        "id": "303",
         "name": "Domino's Pizza",
         "featured_image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=600&h=300&fit=crop",
         "thumb": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=200&h=200&fit=crop",
         "location": {
-          "address": "Marathahalli, Outer Ring Road",
-          "locality": "Marathahalli",
+          "address": "Sector 2, HSR Layout",
+          "locality": "HSR Layout",
           "city": "Bengaluru",
           "city_id": 4,
-          "latitude": "12.9564",
-          "longitude": "77.7010",
-          "zipcode": "560037"
+          "latitude": "12.9108",
+          "longitude": "77.6375",
+          "zipcode": "560102"
         },
         "cuisines": "Pizza, Italian, Pasta",
         "average_cost_for_two": 500,
@@ -208,52 +342,54 @@
         "offers": ["2 Pizzas at ₹599"]
       }
     },
+
+    // ── WHITEFIELD ────────────────────────────────────────────────────
     {
       "restaurant": {
-        "id": "107",
-        "name": "Behrouz Biryani",
-        "featured_image": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=600&h=300&fit=crop",
-        "thumb": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=200&h=200&fit=crop",
+        "id": "401",
+        "name": "Subway",
+        "featured_image": "https://images.unsplash.com/photo-1509722747041-616f39b57569?w=600&h=300&fit=crop",
+        "thumb": "https://images.unsplash.com/photo-1509722747041-616f39b57569?w=200&h=200&fit=crop",
         "location": {
-          "address": "HSR Layout, Bengaluru",
-          "locality": "HSR Layout",
+          "address": "ITPL Main Road, Whitefield",
+          "locality": "Whitefield",
           "city": "Bengaluru",
           "city_id": 4,
-          "latitude": "12.9116",
-          "longitude": "77.6389",
-          "zipcode": "560102"
+          "latitude": "12.9698",
+          "longitude": "77.7499",
+          "zipcode": "560066"
         },
-        "cuisines": "Biryani, Mughlai, North Indian",
-        "average_cost_for_two": 700,
-        "price_range": 3,
+        "cuisines": "Healthy, Sandwiches, American",
+        "average_cost_for_two": 300,
+        "price_range": 1,
         "currency": "Rs.",
         "user_rating": {
-          "aggregate_rating": "4.3",
-          "rating_text": "Very Good",
-          "rating_color": "5BA829",
-          "votes": "7651"
+          "aggregate_rating": "3.9",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "votes": "4100"
         },
         "has_online_delivery": 1,
         "is_delivering_now": 1,
-        "estimated_delivery_time": 50,
-        "minimum_order": 250,
-        "offers": ["₹100 off on ₹399+"]
+        "estimated_delivery_time": 20,
+        "minimum_order": 0,
+        "offers": ["Free cookie on orders above ₹299"]
       }
     },
     {
       "restaurant": {
-        "id": "108",
+        "id": "402",
         "name": "KFC",
         "featured_image": "https://images.unsplash.com/photo-1606728035253-49e8a23146de?w=600&h=300&fit=crop",
         "thumb": "https://images.unsplash.com/photo-1606728035253-49e8a23146de?w=200&h=200&fit=crop",
         "location": {
-          "address": "JP Nagar, Bengaluru",
-          "locality": "JP Nagar",
+          "address": "Phoenix Marketcity, Whitefield",
+          "locality": "Whitefield",
           "city": "Bengaluru",
           "city_id": 4,
-          "latitude": "12.9060",
-          "longitude": "77.5856",
-          "zipcode": "560078"
+          "latitude": "12.9700",
+          "longitude": "77.7502",
+          "zipcode": "560066"
         },
         "cuisines": "Fast Food, Burger, Chicken, American",
         "average_cost_for_two": 450,
@@ -270,6 +406,136 @@
         "estimated_delivery_time": 30,
         "minimum_order": 0,
         "offers": ["Buy 2 Get 1 Free on Buckets"]
+      }
+    },
+    {
+      "restaurant": {
+        "id": "403",
+        "name": "Paradise Biryani",
+        "featured_image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=600&h=300&fit=crop",
+        "thumb": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=200&h=200&fit=crop",
+        "location": {
+          "address": "Varthur Main Road, Whitefield",
+          "locality": "Whitefield",
+          "city": "Bengaluru",
+          "city_id": 4,
+          "latitude": "12.9694",
+          "longitude": "77.7490",
+          "zipcode": "560066"
+        },
+        "cuisines": "Biryani, Hyderabadi, South Indian",
+        "average_cost_for_two": 550,
+        "price_range": 2,
+        "currency": "Rs.",
+        "user_rating": {
+          "aggregate_rating": "4.5",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "votes": "13500"
+        },
+        "has_online_delivery": 1,
+        "is_delivering_now": 1,
+        "estimated_delivery_time": 35,
+        "minimum_order": 150,
+        "offers": ["₹75 off on ₹349+"]
+      }
+    },
+
+    // ── ELECTRONIC CITY ───────────────────────────────────────────────
+    {
+      "restaurant": {
+        "id": "501",
+        "name": "Punjabi Dhaba",
+        "featured_image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=600&h=300&fit=crop",
+        "thumb": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=200&h=200&fit=crop",
+        "location": {
+          "address": "Phase 1, Electronic City",
+          "locality": "Electronic City",
+          "city": "Bengaluru",
+          "city_id": 4,
+          "latitude": "12.8456",
+          "longitude": "77.6603",
+          "zipcode": "560100"
+        },
+        "cuisines": "North Indian, Punjabi, Dal Makhani",
+        "average_cost_for_two": 450,
+        "price_range": 2,
+        "currency": "Rs.",
+        "user_rating": {
+          "aggregate_rating": "4.2",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "5432"
+        },
+        "has_online_delivery": 1,
+        "is_delivering_now": 1,
+        "estimated_delivery_time": 35,
+        "minimum_order": 100,
+        "offers": ["10% off on first order"]
+      }
+    },
+    {
+      "restaurant": {
+        "id": "502",
+        "name": "Domino's Pizza",
+        "featured_image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=600&h=300&fit=crop",
+        "thumb": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=200&h=200&fit=crop",
+        "location": {
+          "address": "Phase 2, Electronic City",
+          "locality": "Electronic City",
+          "city": "Bengaluru",
+          "city_id": 4,
+          "latitude": "12.8460",
+          "longitude": "77.6610",
+          "zipcode": "560100"
+        },
+        "cuisines": "Pizza, Italian, Pasta",
+        "average_cost_for_two": 500,
+        "price_range": 2,
+        "currency": "Rs.",
+        "user_rating": {
+          "aggregate_rating": "4.0",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "votes": "9876"
+        },
+        "has_online_delivery": 1,
+        "is_delivering_now": 1,
+        "estimated_delivery_time": 30,
+        "minimum_order": 0,
+        "offers": ["2 Pizzas at ₹599"]
+      }
+    },
+    {
+      "restaurant": {
+        "id": "503",
+        "name": "Meghana Foods",
+        "featured_image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=600&h=300&fit=crop",
+        "thumb": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=200&h=200&fit=crop",
+        "location": {
+          "address": "Neeladri Road, Electronic City",
+          "locality": "Electronic City",
+          "city": "Bengaluru",
+          "city_id": 4,
+          "latitude": "12.8448",
+          "longitude": "77.6598",
+          "zipcode": "560100"
+        },
+        "cuisines": "Biryani, Andhra, South Indian",
+        "average_cost_for_two": 600,
+        "price_range": 2,
+        "currency": "Rs.",
+        "user_rating": {
+          "aggregate_rating": "4.4",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "8765"
+        },
+        "has_online_delivery": 1,
+        "is_delivering_now": 1,
+        "estimated_delivery_time": 40,
+        "minimum_order": 100,
+        "offers": ["Free Delivery above ₹199"]
       }
     }
   ]
