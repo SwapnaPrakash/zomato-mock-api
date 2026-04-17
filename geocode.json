@@ -1,4 +1,20 @@
 {
+  "location": {
+    "entity_type": "subzone",
+    "entity_id": 36932,
+    "title": "Koramangala, Bengaluru",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "city_id": 4,
+    "city_name": "Bengaluru",
+    "country_id": 1,
+    "country_name": "India"
+  },
+  "popularity": {
+    "popularity": "4.92",
+    "nightlife_index": "4.75",
+    "top_cuisines": ["Biryani", "North Indian", "Chinese"]
+  },
   "nearby_restaurants": [
     {
       "restaurant": {
